@@ -51,7 +51,7 @@ function ClassReviewPage({match}) {
                 <hr />
 
                 <div style={{textAlign: 'center', margin: '2.5rem'}}>
-                    <p>"Sentences you learned today are ...."</p>
+                    <p>"Sentences you've learned today are ...."</p>
                 </div>
 
                 {/* Body */}
